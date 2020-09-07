@@ -5,6 +5,8 @@ package my_spring;
  */
 public class IRobot {
 
+
+
     @InjectByType
     private Speaker speaker;
     @InjectByType
